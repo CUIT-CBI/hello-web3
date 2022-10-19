@@ -11,6 +11,7 @@
     "allowSyntheticDefaultImports": true,
     "forceConsistentCasingInFileNames": true,
     "useDefineForClassFields": true,
+    "resolveJsonModule": true, // 允许解析json
     "sourceMap": true,
     "baseUrl": ".",
     "types": [

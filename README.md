@@ -1,4 +1,5 @@
-# test
+# Hello-Web3
+基于 `vue` 和 `ethers.js` 的web3项目demo
 
 ## Project setup
 ```
